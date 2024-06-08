@@ -11,6 +11,7 @@ pageInfo:
 
 # Optional app settings and configuration
 appConfig:
+  backgroundImg: https://i.imgur.com/Ax0Xpb9.jpeg
   theme: colorful
 
 # Main content - An array of sections, each containing an array of items
